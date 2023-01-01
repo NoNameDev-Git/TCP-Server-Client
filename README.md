@@ -4,8 +4,8 @@
 	<img src="https://i.postimg.cc/wxfnxmjm/5.png" />
 </p>
 
-
-<a href="https://youtu.be/JmsYfc0jxz4"> how to assemble TCP-Server-Client </a>
+That's all, our lnk is ready, and everything that I think further is intuitive.
+Link to youtube: [www.youtube.com](https://youtu.be/JmsYfc0jxz4)
 ### Support
 Telegram: @Official_Mr_Robot
 
